@@ -1,3 +1,4 @@
 # apnacollege-demo
 this is my practice project
-Author - Rankita Barela
+<br>
+Author - Rankita (apna college)
